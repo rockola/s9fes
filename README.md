@@ -1,9 +1,11 @@
 Scheme 9 from Empty Space
 =========================
+```
                                 ____  ____  ____  ____  ____
 Scheme 9 from Empty Space      / ___)/ __ \|  __)|  __)/ ___)
 A Portable Scheme Interpreter  \___ \\__  /|  __)|  __)\___ \
 By Nils M Holm, 2007-2018      (____/(___/ |_|   |____)(____/
+```
 
 S9fES is a mature, portable, and comprehensible public-domain
 interpreter for R4RS Scheme offering
