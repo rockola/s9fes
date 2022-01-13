@@ -1,0 +1,5 @@
+# Emacs
+*~
+# C build
+*.o
+*.a
