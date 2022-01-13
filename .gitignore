@@ -3,3 +3,6 @@
 # C build
 *.o
 *.a
+s9
+s9.1.gz
+s9.image
